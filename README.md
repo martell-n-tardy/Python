@@ -3,5 +3,5 @@ This repository contains links to capstone projects, mini-projects and exercises
 
 ## Skills 
 * **PANDAS**
-    * **London Housing Case Study:** A mini-project analyzing the rising costs of rent in London using Python data science toolbox.
+    * **London Housing Case Study:** A mini-project analyzing the rising costs of rent in London using the Python data science toolbox.
 
