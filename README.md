@@ -1,5 +1,5 @@
 # Python
-This repository contains links to capstone projects, mini-projects and exercises completed in the Python programming language. Material is seperated by emphasized skill for recruiter convenience.
+This repository contains links to capstone projects, mini-projects and exercises completed in the Python programming language. The material in this repository is seperated by emphasized skill for recruiter convenience.
 
 ## Skills 
 * **PANDAS**
