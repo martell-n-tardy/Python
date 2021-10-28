@@ -8,7 +8,7 @@ This repository contains links to capstone projects, mini-projects and exercises
 
 ### DATA WRANGLING
 * **Frankfurt Stock Exchange:** An Application Programming Interface (API) based mini-project using financial market data.
-   (LINK)
+      https://github.com/martell-n-tardy/Frankfurt-Stock-Exchange
    
 ### STATISTICS
 * **Frequentist Inference:** A case study applying statistical inference, specifically frequentist inference, to solve a real-world scenario.
