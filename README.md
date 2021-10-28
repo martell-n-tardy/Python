@@ -12,13 +12,13 @@ This repository contains links to capstone projects, mini-projects and exercises
    
 ### STATISTICS
 * **Frequentist Inference:** A case study applying statistical inference, specifically frequentist inference, to solve a real-world scenario.
-     (LINK)
+      https://github.com/martell-n-tardy/Frequentist-Inference-Case-Study
         
 * **Integrating Apps:** A case study applying statistical hypothesis testing to analyze whether there is a significant difference between the ratings on two platforms that would justify choosing one over the other.
-     (LINK)
+https://github.com/martell-n-tardy/Integrating-Apps-Case-Study
         
-* **Linear Regression(RENAME "Wine Something"):** A case study applying statistical modeling using linear regression to explore which red wines have properties that make them more alcoholic.
-     (LINK)
+* **Red Wine:** A case study applying statistical modeling using linear regression to explore which red wines have properties that make them more alcoholic.
+      https://github.com/martell-n-tardy/Red-Wine-Case-Study
 
 * **Boston Housing:** A case study applying statistical modeling using linear regression to explore the housing market in Boston.
-     (LINK)
+      https://github.com/martell-n-tardy/Boston-Housing-Case-Study
