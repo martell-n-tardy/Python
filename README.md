@@ -61,8 +61,11 @@ https://github.com/martell-n-tardy/Integrating-Apps-Case-Study
       https://github.com/martell-n-tardy/Time-Series-Investigation-Case-Study
       
 ## DATA SCIENCE METHODOLOGY
-* **Ski Mountain Resort Capstone:** A project displaying application of the six step data science methodology using historical data from a ski resort to make a data-driven business decision about their future ticket prices.
+* **Ski Mountain Resort Capstone:** An end-to-end project displaying application of the six step data science methodology using historical data from a ski resort to make a data-driven business decision about their future ticket prices.
       https://github.com/martell-n-tardy/Ski-Mountain-Resort-Capstone
+
+* **Forecasting Vehicle Demand:** An end-to-end project completed for a prior employer displaying understanding of time series analysis to forecast their vehicle demand 24 months into the future using 14+ years of their historical sales data.
+      https://github.com/martell-n-tardy/Forecasting-with-a-Time-Series-Model-using-Python
 
 ## BIG DATA (Spark and Pyspark)
 * **Spark: Databricks Edition:** A mini-project applying PySpark DataFrames and MLib to construct classification models. I published the mini-project on Databricks and therefore it has been made public. Please note, the link for this mini-project will take you to an external site outside of the Github platform.
