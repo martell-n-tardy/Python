@@ -4,8 +4,8 @@ This repository contains links to capstone projects, mini-projects and exercises
 ## SKILLS 
 
 ### PANDAS
-* **London Housing Case Study:** A mini-project analyzing the rising costs of rent in London using the Python data science toolbox.
-      https://github.com/martell-n-tardy/London-Housing-Case-Study
+* **Rently London Housing Market:** A mini-project exploring potential markets in London for the company Rently using the Python data science toolbox.
+      https://github.com/martell-n-tardy/Rently-London-Housing-Market
    
    
 ### STATISTICS
