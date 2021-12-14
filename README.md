@@ -64,7 +64,7 @@ https://github.com/martell-n-tardy/Integrating-Apps-Case-Study
 * **Ski Mountain Resort Capstone:** An end-to-end project displaying application of the six step data science methodology using historical data from a ski resort to make a data-driven business decision about their future ticket prices.
       https://github.com/martell-n-tardy/Ski-Mountain-Resort-Capstone
 
-* **Forecasting Vehicle Demand:** An end-to-end project completed for a prior employer displaying understanding of time series analysis and modeling to forecast their vehicle demand 24 months into the future using 14+ years of their historical sales data.
+* **Forecasting Vehicle Demand:** An end-to-end project completed for a prior employer displaying understanding of time series analysis and modeling to forecast their vehicle demand 24 months into the future using 12+ years of their historical sales data.
       https://github.com/martell-n-tardy/Forecasting-with-a-Time-Series-Model-using-Python
 
 * **Risk Prediction for Type 2 Diabetes:** An end-to-end project exploring the relationship between behavioral traits and lifestyle using machine learning techniques to build a predictive model that identified the risk factors for type 2 diabetes. 
