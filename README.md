@@ -61,7 +61,7 @@ https://github.com/martell-n-tardy/Integrating-Apps-Case-Study
       https://github.com/martell-n-tardy/Time-Series-Investigation-Case-Study
       
 ## DATA SCIENCE METHODOLOGY
-* **Ski Mountain Resort Capstone:** An end-to-end project displaying application of the six step data science methodology using historical data from a ski resort to make a data-driven business decision about their future ticket prices.
+* **Ski Mountain Resort Capstone:** An end-to-end project displaying application of the six step data science methodology and statistical analysis to develop models related to opportunity sizing and targeting to make a data-driven business decision about the optimial ticket pricing given various scenarios and limitations.
       https://github.com/martell-n-tardy/Ski-Mountain-Resort-Capstone
 
 * **Forecasting Vehicle Demand:** An end-to-end project completed for a prior employer displaying understanding of time series analysis and modeling to forecast their vehicle demand 24 months into the future using 12+ years of their historical sales data.
