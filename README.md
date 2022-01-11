@@ -26,6 +26,11 @@ https://github.com/martell-n-tardy/Integrating-Apps-Case-Study
 * **Frankfurt Stock Exchange:** An Application Programming Interface (API) based mini-project using financial market data.
       https://github.com/martell-n-tardy/Frankfurt-Stock-Exchange
 
+### SCIKIT-LEARN
+* **Supervised Learning - Classification Models:** Graduate course work from DAAN862: Analytics Programming in Python.
+* **Supervised Learning - Regression:**
+* **Supervised Learning - Advanced Models:**
+* **Unsupervised Learning - Clustering:**
 
 ### MACHINE LEARNING
 * **Logistic Regression:** A case study applying the supervised learning method of logistic regression to classify the binary gender of a sample correctly.
