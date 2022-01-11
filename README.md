@@ -27,7 +27,8 @@ https://github.com/martell-n-tardy/Integrating-Apps-Case-Study
       https://github.com/martell-n-tardy/Frankfurt-Stock-Exchange
 
 ### SCIKIT-LEARN
-* **SciKit-Learn:** A repository of graduate course work completed on unsupervised and supervised SciKit-Learrning in Python.
+* **SciKit-Learn:** A repository of graduate course work completed on unsupervised and supervised SciKit-Learrning in Python. 
+      https://github.com/martell-n-tardy/SciKit-Learn
 
 ### MACHINE LEARNING
 * **Logistic Regression:** A case study applying the supervised learning method of logistic regression to classify the binary gender of a sample correctly.
