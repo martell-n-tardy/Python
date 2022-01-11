@@ -56,6 +56,7 @@ https://github.com/martell-n-tardy/Integrating-Apps-Case-Study
       https://github.com/martell-n-tardy/Bayesian-Parameter-Optimization
 
 ### USER BEHAVIORAL DATA ANALYSIS
+A repository of 
 * **KMC Wine Consulting - Customer Segmentation:** A case study applying the unsupervised learning method of the K-Means clustering algorithm to find the value for K using the Elbow method, the Silhouette method, and visualize the clusters with Principal Components Analysis (PCA). Real data containing information on marketing newsletters and email campaigns, as well as transaction-level data from customers was used.
       https://github.com/martell-n-tardy/Customer-Segmentation-Case-Study
       
