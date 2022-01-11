@@ -56,11 +56,13 @@ https://github.com/martell-n-tardy/Integrating-Apps-Case-Study
       https://github.com/martell-n-tardy/Bayesian-Parameter-Optimization
 
 ### USER BEHAVIORAL DATA ANALYSIS
-A repository of 
+THIS PROJECT IS CURRENTLY GOING THROUGH AN UPDATE
 * **KMC Wine Consulting - Customer Segmentation:** A case study applying the unsupervised learning method of the K-Means clustering algorithm to find the value for K using the Elbow method, the Silhouette method, and visualize the clusters with Principal Components Analysis (PCA). Real data containing information on marketing newsletters and email campaigns, as well as transaction-level data from customers was used.
       https://github.com/martell-n-tardy/Customer-Segmentation-Case-Study
       
 ### TIME SERIES ANALYSIS
+* **Forecasting Vehicle Demand:** An end-to-end project completed for a prior employer displaying understanding of time series analysis and modeling to forecast their vehicle demand 24 months into the future using 12+ years of their historical sales data.
+      https://github.com/martell-n-tardy/Forecasting-with-a-Time-Series-Model-using-Python
 * **Cowboy Cigarettes:** A case study applying time series methods to the US's longest-running cigarette manufacturer, Cowboy Cigarettes(TM, est. 1890) 1949-1960 data to predict whether their cigarette sales actually increased, decreased, or stayed the same in the early 60s. 
       https://github.com/martell-n-tardy/Time-Series-Investigation-Case-Study
       
@@ -68,10 +70,7 @@ A repository of
 * **Ski Mountain Resort Capstone:** An end-to-end project displaying application of the six step data science methodology and statistical analysis to develop models related to opportunity sizing and targeting to make a data-driven business decision about the optimial ticket pricing given various scenarios and limitations.
       https://github.com/martell-n-tardy/Ski-Mountain-Resort-Capstone
 
-## DATA SCIENCE METHODOLOGY
-* **Forecasting Vehicle Demand:** An end-to-end project completed for a prior employer displaying understanding of time series analysis and modeling to forecast their vehicle demand 24 months into the future using 12+ years of their historical sales data.
-      https://github.com/martell-n-tardy/Forecasting-with-a-Time-Series-Model-using-Python
-
+## RISK PREDICTION ANALYSIS
 * **Risk Prediction for Type 2 Diabetes:** An end-to-end project exploring the relationship between behavioral traits and lifestyle using machine learning techniques to build a predictive model that identified the risk factors for type 2 diabetes. 
       https://github.com/martell-n-tardy/Risk-Prediction-Models-for-Type-2-Diabetes
 
