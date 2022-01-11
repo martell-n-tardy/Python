@@ -71,10 +71,6 @@ https://github.com/martell-n-tardy/Integrating-Apps-Case-Study
 * **Risk Prediction for Type 2 Diabetes:** An end-to-end project exploring the relationship between behavioral traits and lifestyle using machine learning techniques to build a predictive model that identified the risk factors for type 2 diabetes. 
       https://github.com/martell-n-tardy/Risk-Prediction-Models-for-Type-2-Diabetes
 
-## BIG DATA (Spark and PySpark)
-* **Spark: Databricks Edition:** A mini-project applying PySpark DataFrames and MLib to construct classification models. I published the mini-project on Databricks and therefore it has been made public. Please note, the link for this mini-project will take you to an external site outside of the Github platform.
-      https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1534709602450145/3811241322596140/357523627973105/latest.html
-
 ## PROJECTS IN PROGRESS
 * **MIMICIII Analysis:** An end-to-end project using decision-tree based algorithms and machine learning algorithms such as: XGBoost, LightGBM, and GBDT for model validation and deployment to predict the mortality of patients with AMI (Acute Myocardinal Infarction) using the MIMIC III dataset.
       https://github.com/martell-n-tardy/MIMICIII-Analysis
