@@ -60,10 +60,11 @@ https://github.com/martell-n-tardy/Integrating-Apps-Case-Study
 * **Cowboy Cigarettes:** A case study applying time series methods to the US's longest-running cigarette manufacturer, Cowboy Cigarettes(TM, est. 1890) 1949-1960 data to predict whether their cigarette sales actually increased, decreased, or stayed the same in the early 60s. 
       https://github.com/martell-n-tardy/Time-Series-Investigation-Case-Study
       
-## DATA SCIENCE METHODOLOGY
+## OPPORTUNITY SIZING, TARGETING, AND OPTIMIZATION
 * **Ski Mountain Resort Capstone:** An end-to-end project displaying application of the six step data science methodology and statistical analysis to develop models related to opportunity sizing and targeting to make a data-driven business decision about the optimial ticket pricing given various scenarios and limitations.
       https://github.com/martell-n-tardy/Ski-Mountain-Resort-Capstone
 
+## DATA SCIENCE METHODOLOGY
 * **Forecasting Vehicle Demand:** An end-to-end project completed for a prior employer displaying understanding of time series analysis and modeling to forecast their vehicle demand 24 months into the future using 12+ years of their historical sales data.
       https://github.com/martell-n-tardy/Forecasting-with-a-Time-Series-Model-using-Python
 
