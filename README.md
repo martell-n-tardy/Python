@@ -70,7 +70,7 @@ THIS PROJECT IS CURRENTLY GOING THROUGH AN UPDATE
 * **Ski Mountain Resort Capstone:** An end-to-end project displaying application of the six step data science methodology and statistical analysis to develop models related to opportunity sizing and targeting to make a data-driven business decision about the optimial ticket pricing given various scenarios and limitations.
       https://github.com/martell-n-tardy/Ski-Mountain-Resort-Capstone
 
-## RISK PREDICTION ANALYSIS
+### RISK PREDICTION ANALYSIS
 * **Risk Prediction for Type 2 Diabetes:** An end-to-end project exploring the relationship between behavioral traits and lifestyle using machine learning techniques to build a predictive model that identified the risk factors for type 2 diabetes. 
       https://github.com/martell-n-tardy/Risk-Prediction-Models-for-Type-2-Diabetes
 
