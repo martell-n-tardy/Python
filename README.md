@@ -52,8 +52,8 @@ https://github.com/martell-n-tardy/Integrating-Apps-Case-Study
 * **Bayesian Optimization:** A case study applying the Bayesian methods of probabilities to select the optimal hyperparameters for a Light GBM model.
       https://github.com/martell-n-tardy/Bayesian-Parameter-Optimization
 
-### USER BEHAVORIAL DATA ANALYSIS
-* **Customer Segmentation:** A case study applying the unsupervised learning method of the K-Means clustering algorithm to find the value for K using the Elbow method, the Silhouette method, and the Gap statistic, and visualize the clusters with Principal Components Analysis (PCA). Real data containing information on marketing newsletters and email campaigns, as well as transaction-level data from customers was used.
+### USER BEHAVIORAL DATA ANALYSIS
+* **KMC Wine Consulting - Customer Segmentation:** A case study applying the unsupervised learning method of the K-Means clustering algorithm to find the value for K using the Elbow method, the Silhouette method, and visualize the clusters with Principal Components Analysis (PCA). Real data containing information on marketing newsletters and email campaigns, as well as transaction-level data from customers was used.
       https://github.com/martell-n-tardy/Customer-Segmentation-Case-Study
       
 ### TIME SERIES ANALYSIS
