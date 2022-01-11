@@ -46,16 +46,16 @@ https://github.com/martell-n-tardy/Integrating-Apps-Case-Study
 * **Cosine Similarity:** A case study applying the unsupervised learning method of cosine similarity to calculate a numeric dataset and explore the utility of this method for record matching and NLP projects.
       https://github.com/martell-n-tardy/Cosine-Similarity-Case-Study
 
-* **Customer Segmentation:** A case study applying the unsupervised learning method of the K-Means clustering algorithm to find the value for K using the Elbow method, the Silhouette method, and the Gap statistic, and visualize the clusters with Principal Components Analysis (PCA). Real data containing information on marketing newsletters and email campaigns, as well as transaction-level data from customers was used.
-      https://github.com/martell-n-tardy/Customer-Segmentation-Case-Study
-
 * **Grid Search in KNN:** A case study applying the grid search method to identify the optimal parameters for a machine learning algorithm using the Pima Indian diabetes dataset from Kaggle and KNN.
       https://github.com/martell-n-tardy/Grid-Search-in-KNN
 
 * **Bayesian Optimization:** A case study applying the Bayesian methods of probabilities to select the optimal hyperparameters for a Light GBM model.
       https://github.com/martell-n-tardy/Bayesian-Parameter-Optimization
 
-
+### USER BEHAVORIAL DATA ANALYSIS
+* **Customer Segmentation:** A case study applying the unsupervised learning method of the K-Means clustering algorithm to find the value for K using the Elbow method, the Silhouette method, and the Gap statistic, and visualize the clusters with Principal Components Analysis (PCA). Real data containing information on marketing newsletters and email campaigns, as well as transaction-level data from customers was used.
+      https://github.com/martell-n-tardy/Customer-Segmentation-Case-Study
+      
 ### TIME SERIES ANALYSIS
 * **Cowboy Cigarettes:** A case study applying time series methods to the US's longest-running cigarette manufacturer, Cowboy Cigarettes(TM, est. 1890) 1949-1960 data to predict whether their cigarette sales actually increased, decreased, or stayed the same in the early 60s. 
       https://github.com/martell-n-tardy/Time-Series-Investigation-Case-Study
